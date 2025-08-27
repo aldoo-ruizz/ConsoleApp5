@@ -16,6 +16,14 @@ namespace ConsoleApp5
         {
             return n1 - n2;
         }
+        public int multi(int m1, int m2)
+        {
+            return m1 * m2;
+        }
+        public double dividir(double d1, double d2)
+        {
+            return d1 / d2;
+        }
 
     }
 }
